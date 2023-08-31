@@ -20,4 +20,6 @@ Follow these steps to get started with the project:
 
    ```bash
    git clone https://github.com/abhijeetGithu/whatsapp-chat-analysis-ML.git
-   cd whatsapp-chat-analysis-ML
+   cd whatsapp-chat-analysis
+## Contributing and License
+  Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request.-ML
