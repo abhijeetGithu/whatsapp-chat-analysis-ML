@@ -19,5 +19,5 @@ Follow these steps to get started with the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-analysis-ML.git
+   git clone https://github.com/abhijeetGithu/whatsapp-chat-analysis-ML.git
    cd whatsapp-chat-analysis-ML
