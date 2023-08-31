@@ -23,3 +23,4 @@ Follow these steps to get started with the project:
    cd whatsapp-chat-analysis
 ## Contributing and License
   Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request.-ML
+  This project is licensed under the MIT License.
