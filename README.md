@@ -1,6 +1,6 @@
 # WhatsApp Chat Analysis with Machine Learning
 
-![Project Image](path_to_your_image.jpg)
+![Project Image](https://i.ytimg.com/vi/avJp4f1uzuY/maxresdefault.jpg)
 
 Analyze and visualize insights from WhatsApp chat histories using Natural Language Processing (NLP) and Machine Learning techniques. This project focuses on extracting valuable information from your chats, such as word frequency, sentiment analysis, and participant engagement. By applying data analysis, NLP, and data visualization, this project offers a comprehensive analysis of your conversations.
 
