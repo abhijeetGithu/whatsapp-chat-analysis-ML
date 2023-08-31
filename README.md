@@ -24,3 +24,5 @@ Follow these steps to get started with the project:
 ## Contributing and License
   Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request.-ML
   This project is licensed under the MIT License.
+## Acknowledgements
+ This project was inspired by the desire to uncover insights from everyday conversations. It utilizes tools and techniques from the field of NLP and machine learning to make sense of textual data
