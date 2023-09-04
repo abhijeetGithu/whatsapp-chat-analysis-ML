@@ -26,3 +26,6 @@ Follow these steps to get started with the project:
   This project is licensed under the MIT License.
 ## Acknowledgements
  This project was inspired by the desire to uncover insights from everyday conversations. It utilizes tools and techniques from the field of NLP and machine learning to make sense of textual data
+
+## License
+This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
